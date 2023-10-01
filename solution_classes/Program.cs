@@ -268,6 +268,7 @@ namespace Lesson_9_Text_And_Files
             contactDatabase.SaveContacts();
             Console.WriteLine("Contacts saved to file.");
         }
+
     }
 }
 
